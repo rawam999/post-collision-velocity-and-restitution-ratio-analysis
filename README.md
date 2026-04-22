@@ -1,4 +1,4 @@
-# post-collision-velocity-and-restitution-ratio-analysis
+# post-collision-velocity-and-Velocity-ratio-analysis
 for thesis
 clc
 clear;close all 
